@@ -1,0 +1,16 @@
+Python (latest version)
+
+Python Modules:
+1) PIL
+2) Tkinter
+3) Matplotlib
+If these modules could not be pip-installed in a terminal, then try entering the following in command line terminal:
+python -m pip install --upgrade pip
+if the above doesnt work, then:
+python -m pip install --upgrade pip
+
+
+
+MySQL (command line and workbench) with a New User other than root and other existing users with the following credentials
+username: shub1
+password: abc123
